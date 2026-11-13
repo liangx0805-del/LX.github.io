@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor and PhD Advisor at Shenzhen University. My research interests focus on Federated Learning optimization and applications, game theory and intelligent unmanned system security, and data privacy protection. I have 3–4 openings for Master’s students each year, and undergraduate students are also welcome to join our research group.
+I am currently an Assistant Professor and PhD Advisor at the College of Computer Science and Software Engineering, Shenzhen University. My research interests focus on Federated Learning optimization and applications, game theory and intelligent unmanned system security, and data privacy protection. I have 3–4 openings for Master’s students each year, and undergraduate students are also welcome to join our research group.
 
 If you are interested in these research topics, please feel free to contact me via email.
 
